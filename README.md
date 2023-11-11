@@ -15,7 +15,9 @@
 
 <br>
 <h2 align="center">اعضای تیم ما چه کسانی هستند؟ 👨‍🏫</h2>
-<a href="https://github.com/mahancrx"><h3 align="right">ماهان محمودی</h3></a>
-<a href="https://github.com/zahraasgariyan"><h3 align="right">زهرا عسگریان</h3></a>
-<a href=""><h3 align="right"></h3></a>
-<a href="https://github.com/Amirejk43"><h3 align="right">امیر</h3></a>
+<a href="https://github.com/mahancrx">ماهان محمودی</a>
+<a href="https://github.com/zahraasgariyan">زهرا عسگریان</a>
+<a href="https://github.com/Atefe-aa">>عاطفه عسگریان</a>
+<a href="https://github.com/Amirejk43">امیر</a>
+<br>
+<h2 align="center">پروژه های ما 🔻🔺</h2>
